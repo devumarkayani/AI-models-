@@ -1,10 +1,33 @@
-Overview:
-This repository contains a pre-trained AI model designed for Table Question Answering (TQA). The model is capable of answering questions based on tabular data, which can be useful in various applications such as data analysis, automated reporting, and more. The model leverages advanced natural language processing techniques to understand and interpret questions in the context of structured tables.
+📌 Overview
 
-Features
-1)Pre-trained Model: Out-of-the-box performance on various table-based QA tasks.
-2)Flexible Input: Supports diverse table formats and question types.
-3)Easy Integration: Simple to integrate into existing applications or workflows.
+This repository provides a pre-trained AI model for Table Question Answering (TQA). The model is designed to interpret natural language questions and retrieve accurate answers from structured tabular data. It is particularly useful for applications such as:
 
-Contributing
-Contributions are welcome! If you have suggestions, bug reports, or feature requests, please create an issue on GitHub. You can also contribute code by submitting a pull request.
+Automated data analysis
+
+Business intelligence and reporting
+
+Conversational agents that interact with tabular datasets
+
+By leveraging state-of-the-art natural language processing (NLP) techniques, this model bridges the gap between human language understanding and structured data querying.
+
+✨ Features
+
+Pre-trained Model: Ready-to-use with strong performance across a variety of table-based QA tasks.
+
+Flexible Input: Supports multiple table formats and diverse question types.
+
+Easy Integration: Can be seamlessly integrated into existing applications, pipelines, or workflows.
+
+🚀 Getting Started
+Prerequisites
+
+Python 3.8+
+
+🤝 Contributing
+
+Contributions are welcome! 🎉
+
+Feature requests & bug reports: Please open an issue
+.
+
+Code contributions: Fork the repository, create a branch, and submit a pull request.
